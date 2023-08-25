@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/project222/static/css/main.a72a63f2.css",
-    "main.js": "/project222/static/js/main.e0350780.js",
-    "static/js/787.28cb0dcd.chunk.js": "/project222/static/js/787.28cb0dcd.chunk.js",
-    "static/media/baag.png": "/project222/static/media/baag.045c11a68c79d89abe75.png",
-    "static/media/revicons.eot": "/project222/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/project222/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/project222/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/project222/index.html",
-    "main.a72a63f2.css.map": "/project222/static/css/main.a72a63f2.css.map",
-    "main.e0350780.js.map": "/project222/static/js/main.e0350780.js.map",
-    "787.28cb0dcd.chunk.js.map": "/project222/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/project22/static/css/main.87acf885.css",
+    "main.js": "/project22/static/js/main.3e001abe.js",
+    "static/js/787.28cb0dcd.chunk.js": "/project22/static/js/787.28cb0dcd.chunk.js",
+    "static/media/baag.png": "/project22/static/media/baag.045c11a68c79d89abe75.png",
+    "static/media/revicons.eot": "/project22/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/project22/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/project22/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/project22/index.html",
+    "main.87acf885.css.map": "/project22/static/css/main.87acf885.css.map",
+    "main.3e001abe.js.map": "/project22/static/js/main.3e001abe.js.map",
+    "787.28cb0dcd.chunk.js.map": "/project22/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a72a63f2.css",
-    "static/js/main.e0350780.js"
+    "static/css/main.87acf885.css",
+    "static/js/main.3e001abe.js"
   ]
 }
