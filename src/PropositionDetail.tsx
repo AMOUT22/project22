@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Footer from './Footer';
 
 const properties = [
   {
@@ -144,7 +145,7 @@ const FilterablePropertyList: React.FC = () => {
   });
 
   return (
-    <div className="flex flex-col md:flex-row">
+    <>   <div className="flex flex-col md:flex-row">
       <div className="w-full md:w-1/4 bg-gray-100 p-4 ">
         <h2 className="font-bold mb-4">Filters</h2>
         <div className="mb-4">
@@ -264,6 +265,9 @@ const FilterablePropertyList: React.FC = () => {
   </div>
 </div>
     </div>
+    <Footer/>
+    </>
+ 
   );
 };
 

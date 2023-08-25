@@ -21,7 +21,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route
-          index
+          path='/'
           element={
             <div className="animate-rotate-in">
               <HomePage />

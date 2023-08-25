@@ -148,7 +148,9 @@ function Navbar() {
                           )}
                         </button></div>
                     <div className='py-5 '>
-              <button className="bg-[#005BAF] text-[#FFFFFF] font-bold py-2 px-6 rounded">NOUS CONTACTER</button>
+              <button className='bg-[#005BAF] text-[#FFFFFF] font-bold py-2 px-6 rounded 'onClick={closeNavbar} >
+             <Link to="/contact">CONTACTER NOUS</Link>
+          </button>
            </div>
               </ul>
     </nav>
