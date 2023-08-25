@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.dropp{
+    margin-top: 15px;
+}
+footer{
+    font-size: 10px;
+    height: auto;
+}
+.foot{
+    font-size: 10px;
+}
+.logo{
+    height: 100px;
+    width: 180px;
+}
+.span{
+    margin-top: 15px;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    color: #005BAF;
+}
+.para{
+    max-width: 400px; /* Adjust width as needed */
+    padding: 20px; /* Add some padding for space around the paragraph */
+    text-align: center;
+    
+}
+
+/* Example animation classes */
+@keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .animate-fade-enter {
+    animation: fade-in 0.3s ease-in-out;
+  }
+/* styles.css */
+@keyframes bounce-in-top {
+    0% {
+      transform: translateY(-100%);
+      animation-timing-function: ease-in;
+      opacity: 0;
+    }
+    60% {
+      transform: translateY(30px);
+      animation-timing-function: ease-out;
+    }
+    80% {
+      transform: translateY(-10px);
+      animation-timing-function: ease-in;
+    }
+    100% {
+      transform: translateY(0);
+      animation-timing-function: ease-out;
+      opacity: 1;
+    }
+  }
+  
+  .animate-bounce-in-top {
+    animation: bounce-in-top 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+/* styles.css */
+@keyframes fade-scale {
+    0% {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  
+  .animate-fade-scale {
+    animation: fade-scale 0.5s ease-in-out;
+  }
+/* styles.css */
+@keyframes slide-in-left {
+    0% {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+  .animate-slide-in-left {
+    animation: slide-in-left 0.5s ease-in-out;
+  }
+  /* styles.css */
+@keyframes rotate-in {
+    0% {
+      transform: rotate(-180deg);
+      opacity: 0;
+    }
+    100% {
+      transform: rotate(0);
+      opacity: 1;
+    }
+  }
+  
+  .animate-rotate-in {
+    animation: rotate-in 0.5s ease-in-out;
+  }
+/* FilterablePropertyList.css */
+.property-card {
+    border: 1px solid #e2e8f0;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  }
+  
+  .property-image img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  
+  .property-info {
+    margin-left: 15px;
+  }
+  
+  .property-icons {
+    margin-top: 5px;
+    color: #718096;
+  }
+  
+  .property-location,
+  .property-status {
+    color: #4a90e2;
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  
+        
