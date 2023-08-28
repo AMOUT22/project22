@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/project22/static/css/main.87acf885.css",
-    "main.js": "/project22/static/js/main.1fcc4ee8.js",
+    "main.css": "/project22/static/css/main.5d3b2395.css",
+    "main.js": "/project22/static/js/main.d2fd6463.js",
     "static/js/787.28cb0dcd.chunk.js": "/project22/static/js/787.28cb0dcd.chunk.js",
-    "static/media/baag.png": "/project22/static/media/baag.045c11a68c79d89abe75.png",
+    "static/media/about.png": "/project22/static/media/about.14ad02831770d27095f2.png",
+    "static/media/cta.png": "/project22/static/media/cta.1ef98b90dadd39567118.png",
+    "static/media/hero.png": "/project22/static/media/hero.b0dd1d8069a9021d8a2a.png",
     "static/media/revicons.eot": "/project22/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/project22/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/project22/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/project22/index.html",
-    "main.87acf885.css.map": "/project22/static/css/main.87acf885.css.map",
-    "main.1fcc4ee8.js.map": "/project22/static/js/main.1fcc4ee8.js.map",
+    "main.5d3b2395.css.map": "/project22/static/css/main.5d3b2395.css.map",
+    "main.d2fd6463.js.map": "/project22/static/js/main.d2fd6463.js.map",
     "787.28cb0dcd.chunk.js.map": "/project22/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87acf885.css",
-    "static/js/main.1fcc4ee8.js"
+    "static/css/main.5d3b2395.css",
+    "static/js/main.d2fd6463.js"
   ]
 }
